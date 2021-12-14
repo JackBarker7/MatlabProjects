@@ -1,0 +1,14 @@
+function [a,b, rms] = least_squares(xarr,yarr)
+%least_squares Returns coefficients after performing least squares
+%regression on the input arrays
+%   xarr and yarr should be input arrays of data
+%	returns coefficients a and b for the fit line y=a+bx, as well as the
+%	rms value for the data set
+	
+	%we first need to find the matrices Xmat and Ymat in the equation 
+	%Xmat*amat = Ymat
+	Xmat = len
+
+
+
+end
